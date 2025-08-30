@@ -1,4 +1,4 @@
-# Review Quality Assessment System
+# TikTok TechJam Track 1: Review Quality Assessment System
 
 ML-based system to detect spam, advertisements, irrelevant content, and reviews from users who never visited locations. Implements dual-approach architecture combining rule-based detection with transformer models.
 
